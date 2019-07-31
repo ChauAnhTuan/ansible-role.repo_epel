@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: repo-epel
+  role_name: repo-epel-asdkasjdka
   author: "ansible.role"
   description: EPEL repository for RHEL/CentOS.
   company: "ansible.role"
