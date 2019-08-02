@@ -4,4 +4,4 @@
   become: true
 
   roles:
-    - role: chauanhtuandl.repo-epel
+    - role: chauanhtuandl.repo_epel
