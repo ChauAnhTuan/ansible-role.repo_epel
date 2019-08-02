@@ -4,4 +4,4 @@
   become: true
 
   roles:
-    - role: ansible-role.repo-epel
+    - role: chauanhtuandl.repo-epel
